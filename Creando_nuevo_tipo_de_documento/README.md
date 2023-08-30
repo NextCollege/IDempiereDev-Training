@@ -1,0 +1,1 @@
+This is just an example used in the iDempiere tutorial here: http://wiki.idempiere.org/en/Developing_Plug-Ins_-_Models,_Documents_and_custom_accounting#Prerequisites
